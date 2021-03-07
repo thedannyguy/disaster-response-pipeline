@@ -47,7 +47,7 @@ Running web app
 ![running the web app](https://user-images.githubusercontent.com/73007150/110246430-86ec6180-7fa2-11eb-8890-d4f2e4a85662.PNG)
 
 Web app main page
-![disaster response need medical assistance](https://user-images.githubusercontent.com/73007150/110246573-17c33d00-7fa3-11eb-90a3-915b5f10a11f.PNG)
+![Disaster Response Web App](https://user-images.githubusercontent.com/73007150/110248435-134f5200-7fac-11eb-9ec0-2804f3258c0a.PNG)
 ![disaster response distribution of cat](https://user-images.githubusercontent.com/73007150/110248336-768cb480-7fab-11eb-8f3b-7e16e76876fc.PNG)
 
 Output when inputting message of 'need medical assistance'
