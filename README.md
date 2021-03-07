@@ -35,8 +35,23 @@ app: contains the run.py which runs the web application.
 Screenshots:
 
 Running process_data.py
+![cleans data and stores in sqlite database (1)](https://user-images.githubusercontent.com/73007150/110245969-99659b80-7fa0-11eb-9cea-f9a4c891e009.PNG)
 
+Running train_classifier.py
+![trains the classifier and saves](https://user-images.githubusercontent.com/73007150/110245993-b7330080-7fa0-11eb-9582-7936bc96e7ab.PNG)
 
+Classification report for predictions on test dataset
+![classification report for predictions on test dataset](https://user-images.githubusercontent.com/73007150/110246061-fb260580-7fa0-11eb-8107-42a450198468.PNG)
+
+Running web app
+![running the web app](https://user-images.githubusercontent.com/73007150/110246430-86ec6180-7fa2-11eb-8890-d4f2e4a85662.PNG)
+
+Web app main page
+![disaster response need medical assistance](https://user-images.githubusercontent.com/73007150/110246573-17c33d00-7fa3-11eb-90a3-915b5f10a11f.PNG)
+![disaster response distribution of cat](https://user-images.githubusercontent.com/73007150/110248336-768cb480-7fab-11eb-8f3b-7e16e76876fc.PNG)
+
+Output when inputting message of 'need medical assistance'
+![disaster response need medical assistance](https://user-images.githubusercontent.com/73007150/110248353-92905600-7fab-11eb-9925-cf5c57d61a89.PNG)
 
 
 
