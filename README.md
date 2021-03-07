@@ -1,6 +1,6 @@
 # Disaster Response Pipeline Project (Udacity - Data Science Nanodegree)
 
-Description
+# Description
 
 This project is about analyzing disaster data from Figure Eight to build a model for an API that classifies disaster messages. The data set containing real messages that were sent during disaster events. We will be creating a machine learning pipeline to categorize these events so that we can send the messages to an appropriate disaster relief agency.
 
@@ -9,11 +9,11 @@ This project main sections are:
 2) building Machine Learning pipeline that trains a classifier to accept message as input and output classification results on the 36 categories in the dataset
 3) running a a web app where an emergency worker can input a new message in real time and get classification results in several categories 
 
-Dependencies
+# Dependencies
 This repository is written in Python and the following Python packages are required:
 NumPy, SciPy, Pandas, Sciki-Learn, NLTK, SQLalchemy, Pickle, Flask, Plotly
 
-Executing Program:
+# Executing Program:
 
 You can run the following commands in the project's directory to set up the database, train model and save the model.
 To run ETL pipeline to clean data and store the processed data in the database python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/disaster_response_db.db
@@ -22,7 +22,7 @@ Run the following command in the app's directory to run your web app. python run
 
 Go to http://0.0.0.0:3001/
 
-File Descriptions:
+# File Descriptions:
 
 ETL Pipeline Preparation.ipynb: notebook containing codes to extract dataset, cleans it and save to SQLite database
 ML Pipeline Preparation.ipynb: notebook containing codes to extract dataset from SQLite database, trains a classifier , performs grid search and print out classification report                                for predictions on test set 
@@ -32,7 +32,7 @@ data: contains messages and categories datasets in csv format.
 app: contains the run.py which runs the web application.
 
 
-Screenshots:
+# Screenshots:
 
 Running process_data.py
 ![cleans data and stores in sqlite database (1)](https://user-images.githubusercontent.com/73007150/110245969-99659b80-7fa0-11eb-9cea-f9a4c891e009.PNG)
